@@ -1,0 +1,2 @@
+# Cryptocurrency
+Sumber Keydumps http://keys.niif.hu/keydump/ dihasilkan setiap hari Senin https://mirror.cyberbits.eu/sks/dump/ dihasilkan setiap hari Senin https://keywin.trifence.ch/dumps/ (pembuangan bulanan ditambah penambahan harian pada tengah malam UTC) http://pgp.uni-mainz.de/dump/ NFS v4 dari sks.srv.dumain.com:/dumps/current/ Dihasilkan setiap hari Minggu dan tidak ada lagi 2 minggu kemudian. Gunakan hanya untuk impor penuh BUKAN impor cepat. rsync://rsync.cyberbits.eu/sks/dump/
